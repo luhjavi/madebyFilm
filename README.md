@@ -18,4 +18,4 @@ ____________________
 ____________________
 # Status:
 
-##### *Currently re-learning how to make discord bots.* 😒
+*Currently re-learning how to make discord bots.* 😒
