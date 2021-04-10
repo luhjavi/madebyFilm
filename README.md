@@ -19,3 +19,5 @@ ____________________
 # Status:
 
 *Currently re-learning how to make discord bots.* 😒
+
+[Add my Discord Bot Here!](https://discord.com/oauth2/authorize?client_id=828977727587614831&permissions=8&scope=bot)
