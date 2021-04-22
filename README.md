@@ -15,6 +15,8 @@ ____________________
 ### **Donate**
 [Cashapp](https://cash.app/$theyhatejavi)
 
+
+![Film's github stats](https://github-readme-stats.vercel.app/api?username=madebyFilm&count_private=true&theme=midnight-purple)
 ____________________
 # Status:
 
