@@ -12,7 +12,7 @@ I am the currently developer for the discord bot `axotl`.
 
 [![Discord Bots](https://top.gg/api/widget/880965439100952626.svg)](https://top.gg/bot/880965439100952626)
 
-[You can invite the bot here](https://axotl.vera-bot.xyz/invite)
+[You can invite the bot here](https://axotl.vera-bot.xyz/)
 
 ### **Contact** 
 + [Linktree](https://linktr.ee/elorant)
