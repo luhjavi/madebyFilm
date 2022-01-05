@@ -1,14 +1,13 @@
-# **madebyFilm** / [Film#????](https://discord.com/users/178341103139946497)
-____________________
-### **axotl**
-[Invite](https://axotl.vera-bot.xyz/) | [Vote](https://top.gg/bot/880965439100952626/vote) | [Support](https://axotl.vera-bot.xyz/support)
-
-[![Discord Bots](https://top.gg/api/widget/880965439100952626.svg)](https://top.gg/bot/880965439100952626)
-
 
 <p align="center">
   <a href="https://discord.com/users/178341103139946497">
     <img src="https://discord.c99.nl/widget/theme-4/178341103139946497.png"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://top.gg/bot/880965439100952626">
+    <img src="https://top.gg/api/widget/880965439100952626.svg"/>
   </a>
 </p>
   
