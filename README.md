@@ -1,23 +1,17 @@
-# **madebyFilm**
+# **madebyFilm** / [Film#????](https://discord.com/users/178341103139946497)
 ____________________
-
-*My name is Film, known as elorant, exntl, ixfilm, uhfilm, filmlx, filmxl, and also known as filmyt.*
-
-### 📖 - ***I am a young aspired scripter.***
- I do stuff ranging from scripting, UI deving, and GFX. I am mostly known for my potential in the scripting and GFX department. I can agree I am not the best and either, but I can assure you I am not the worst. I am from the United States, EST.
-
 ### **axotl**
-
-I am the currently developer for the discord bot `axotl`.
+[Invite](https://axotl.vera-bot.xyz/) | [Vote](https://top.gg/bot/880965439100952626/vote) | [Support](https://axotl.vera-bot.xyz/support)
 
 [![Discord Bots](https://top.gg/api/widget/880965439100952626.svg)](https://top.gg/bot/880965439100952626)
 
-[You can invite the bot here](https://axotl.vera-bot.xyz/)
 
-### **Contact** 
-+ [Linktree](https://linktr.ee/elorant)
-+ [Film#0001](https://discord.com/users/178341103139946497)
-
-
-### **Github Stats**
-![Film's github stats](https://github-readme-stats.vercel.app/api?username=madebyFilm&count_private=true&theme=midnight-purple)
+<p align="center">
+  <a href="https://github.com/madebyFilm">
+    <img src="https://discord.c99.nl/widget/theme-4/178341103139946497.png"/>
+  </a>
+</p>
+  
+# Statistics
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=madebyFilm&show_icons=true&theme=dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebyFilm&theme=dark" />
